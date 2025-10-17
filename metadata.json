@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of تطبيق إزالة الخلفية (Background Remover)",
+  "description": "An application that uses AI to remove the background from an image. Upload an image, and the AI will process it to create a new image with a transparent background.",
+  "requestFramePermissions": []
+}
